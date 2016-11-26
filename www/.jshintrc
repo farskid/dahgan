@@ -1,0 +1,20 @@
+{
+  "moz": true,
+  "strict": true,
+  "node": true,
+  "lastsemic": true,
+  "noempty": true,
+  "noarg": true,
+  "evil": true,
+  "esnext": true,
+  "eqeqeq": true,
+  "jquery": true,
+  "browser": true,
+  "bitwise": true,
+  "curly": true,
+  "undef": true,
+  "asi": true,
+  "validthis": true,
+  "nonew": true,
+  "forin": true
+}
